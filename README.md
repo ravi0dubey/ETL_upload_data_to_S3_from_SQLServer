@@ -8,5 +8,6 @@ Below is the architecture of ETL process to extract a table from SQL server and 
 https://medium.com/@ravi0dubey/upload-data-into-s3-data-lake-from-on-premise-database-using-python-64460b7a2e2a
 
 # Video link 
+https://youtu.be/j_-o1G44mBI
 
 
